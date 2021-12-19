@@ -1,4 +1,6 @@
 import React from "react";
+// import {FaReact,FaSwift} from "react-icons/fa"
+
 
 const Resume = ({ data }) => {
   if (data) {
@@ -73,7 +75,7 @@ const Resume = ({ data }) => {
 
         <div className="nine columns main-col">
           <p>{skillmessage}</p>
-
+          
           <div className="bars">
             <ul className="skills">{skills}</ul>
           </div>
