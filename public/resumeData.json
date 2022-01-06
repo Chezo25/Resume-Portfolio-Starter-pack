@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCquOl84enWFiMtWLdT8VLCA",
         "className": "fa fa-youtube"
       },
       {
@@ -74,9 +74,21 @@
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
+        "company": "Scrimb Inc",
+        "title": "Instructor",
+        "years": "Feburary 2021 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      },
+      {
+        "company": "Wyzant Learning Inc.",
+        "title": "Instructor",
+        "years": "September 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      },
+      {
+        "company": "Sunleaf Construction Ltd",
+        "title": "Project Manager",
+        "years": "May 2015 - Present",
         "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
       }
     ],
